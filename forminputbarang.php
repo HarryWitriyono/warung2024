@@ -44,8 +44,7 @@
   </div> 
   <div class="form-group row">
     <div class="offset-4 col-8">
-      <button name="bsubmit" type="submit" class="btn btn-primary">Submit</button>
-      <input type="hidden" name="submit" value="kunci">
+      <button name="submit" type="submit" value="JanganLupaSholat" class="btn btn-primary">Submit</button>
     </div>
   </div>
 </form>
